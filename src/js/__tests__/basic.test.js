@@ -1,4 +1,3 @@
-import MathCharacter from "../MathCharacter.js";
 import { Magician } from "../Magician.js";
 import { Daemon } from "../Daemon.js";
 

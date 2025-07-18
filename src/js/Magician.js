@@ -7,7 +7,3 @@ export class Magician extends MathCharacter {
     this.defence = 40;
   }
 }
-
-const hero = new Magician("Merlin");
-hero.stoned = true;
-hero.attack = 2;
